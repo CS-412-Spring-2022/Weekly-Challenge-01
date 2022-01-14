@@ -10,4 +10,6 @@ The task for this challenge is explained in the accompanying prompt which is to 
 
 _Deadline_: 2359h on Monday, 17 January.
 
+For discussion on the challenge, please use the related Canvas discussion thread.
+
 viel Spass!
